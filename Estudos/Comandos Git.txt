@@ -1,0 +1,50 @@
+Comandos Git :
+
+Windows         
+
+-cd: Navegar entre as pastas
+
+-dir: Mostra os diretorios
+
+-mkdir: Criar um novo diretorio 
+
+-del/rmdir: Remover 
+
+Unix
+
+-cd: Navegar entre as pastas
+
+-ls: O comando ls é usado para visualizar conteúdos em um diretório.
+
+-mkdir: Criar um novo diretorio
+
+-rm-rf: Remover
+
+
+Outros comandos:
+
+
+-tab: Auto completa
+
+-ctrl + l:Limpa a tela do terminal do git.
+
+-git clone + endereço da pasta no github: Esse comando serve para clonar um projeto do github.
+
+-git log -n 3: Comando mostra os três últimos commits.
+
+-cd ..: Voltar na pasta aterior.
+
+-rmdir: Remover a pasta(diretorio).
+
+-git commit -m"contaúdo da mensagem de commit": Commnitar os arquivos no Git. O "-m" é a mensagem que sera gravada no commit.
+
+-git config --global user.email "email": Registra o email no git.
+
+-git config --global user.name "nome" : Registra o nome no git.
+
+-git status: Monitora como o arquivo esta.
+
+-git mv.: Mover
+
+-git reset --hard: Comando para desfazer todas as modificações que você fez.
+
